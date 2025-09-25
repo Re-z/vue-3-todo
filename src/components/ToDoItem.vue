@@ -42,6 +42,7 @@
         &.is-completed {
             text-decoration: line-through;
         }
+
     }
     .todo-item {
         padding: 12px;
